@@ -1,7 +1,13 @@
 ## Hi there 👋 I am Jade
+
+
 ### 💻 Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![Jade's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jadeshi1998&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Jadeshi1998&theme=tokyonight)
 
 
 <!--
