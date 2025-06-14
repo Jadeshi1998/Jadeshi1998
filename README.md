@@ -10,8 +10,7 @@ I'm a final-year Computer Science student at the University of Canterbury with a
 - 
 ## 📄 Download My CV
 
-You can download my CV here:  
-**[👉 Jade Shi – CV (PDF)](https://github.com/Jadeshi1998/Jadeshi1998/blob/main/Yumeng%20Shi%20CV.pdf)**
+**[👉👉👉Jade Shi – CV (PDF)👈👈👈](https://github.com/Jadeshi1998/Jadeshi1998/blob/main/Yumeng%20Shi%20CV.pdf)**
 
 
 ## 🧩 Projects I'm Proud Of
