@@ -7,6 +7,12 @@ I'm a final-year Computer Science student at the University of Canterbury with a
 - 💡 Passionate about problem-solving, and continuous learning
 - 🌱 Learning: Embedded systems, systems programming, and AI
 - 📬 Reach me: jadeshi1998@gmail.com
+- 
+## 📄 Download My CV
+
+You can download my CV here:  
+**[👉 Jade Shi – CV (PDF)](https://github.com/Jadeshi1998/Jadeshi1998/blob/main/Yumeng%20Shi%20CV.pdf)**
+
 
 ## 🧩 Projects I'm Proud Of
 
