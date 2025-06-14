@@ -14,9 +14,9 @@ I'm a final-year Computer Science student at the University of Canterbury with a
   A microcontroller-based game developed in C using AVR-GCC and the UCFK4 board.  
   [🔗 View repository](https://github.com/Jadeshi1998/Tower-Defence-)
 
-- **AI-Driven Breast Cancer Classification** 🧠  
-  Applied machine learning on genomic data to classify cancer stages and subtypes.  
-  [🔗 View repository](#) *(add link if public)*
+- **RIP_Routing** 🛰️  
+  A routing daemon based on the **RIP-2 (Routing Information Protocol v2)** specification.   
+  [🔗 View repository](https://github.com/Jadeshi1998/RIPv2) 
 
 - **Car Sales Predictor** 📈  
   A multiple linear regression model in R to predict car sales, using model selection, VIF, and residual diagnostics.
