@@ -1,10 +1,26 @@
-## Hi there 👋 I am Jade
+## 👋 Hi, I'm Jade
 
+I'm a final-year Computer Science student at the University of Canterbury with a background in the culinary industry. I enjoy building creative and impactful solutions through code — especially in C++, Python, and embedded systems.
 
-### 💻 Languages and Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- 🎓 Currently studying Computer Science at UC
+- 🔄 Transitioned from chef to developer — driven by curiosity and challenge
+- 💡 Passionate about problem-solving, clean code, and continuous learning
+- 🌱 Learning: Embedded systems, systems programming, and AI
+- 📬 Reach me: jadeshi1998@gmail.com
 
+## 🧩 Projects I'm Proud Of
+
+- **Tower Defence Game** 🎮  
+  A microcontroller-based game developed in C using AVR-GCC and the UCFK4 board.  
+  [🔗 View repository](https://github.com/Jadeshi1998/Tower-Defence-)
+
+- **AI-Driven Breast Cancer Classification** 🧠  
+  Applied machine learning on genomic data to classify cancer stages and subtypes.  
+  [🔗 View repository](#) *(add link if public)*
+
+- **Car Sales Predictor** 📈  
+  A multiple linear regression model in R to predict car sales, using model selection, VIF, and residual diagnostics.
+**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jadeshi1998/Jadeshi1998/output/github-contribution-grid-snake-dark.svg">
@@ -12,23 +28,25 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jadeshi1998/Jadeshi1998/output/github-contribution-grid-snake.svg">
 </picture>
 
+## 🛠️ Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
 
 ![Jade's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jadeshi1998&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jadeshi1998&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jadeshi1998&layout=compact&theme=tokyonight)
+
 
 <!--
 **Jadeshi1998/Jadeshi1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
