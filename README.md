@@ -2,9 +2,9 @@
 
 I'm a final-year Computer Science student at the University of Canterbury with a background in the culinary industry. I enjoy building creative and impactful solutions through code — especially in C++, Python, and embedded systems.
 
-- 🎓 Currently studying Computer Science at UC
+- 🎓 Currently studying Computer Science at University of Canterbury (Final year)
 - 🔄 Transitioned from chef to developer — driven by curiosity and challenge
-- 💡 Passionate about problem-solving, clean code, and continuous learning
+- 💡 Passionate about problem-solving, and continuous learning
 - 🌱 Learning: Embedded systems, systems programming, and AI
 - 📬 Reach me: jadeshi1998@gmail.com
 
@@ -18,9 +18,6 @@ I'm a final-year Computer Science student at the University of Canterbury with a
   A routing daemon based on the **RIP-2 (Routing Information Protocol v2)** specification.   
   [🔗 View repository](https://github.com/Jadeshi1998/RIPv2) 
 
-- **Car Sales Predictor** 📈  
-  A multiple linear regression model in R to predict car sales, using model selection, VIF, and residual diagnostics.
-**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jadeshi1998/Jadeshi1998/output/github-contribution-grid-snake-dark.svg">
