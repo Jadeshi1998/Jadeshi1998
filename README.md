@@ -23,7 +23,7 @@ I'm a final-year Computer Science student at the University of Canterbury with a
   [🔗 View repository](https://github.com/Jadeshi1998/RIPv2)
 
 - **Computer Graphics** 📐 
-  A factory scene is in a 3D animation on **Open-GL**.
+  A factory scene is in a 3D animation on **Open-GL** with a Skybox texture usage.
   [🔗 View repository](https://github.com/Jadeshi1998/Factory-scene-OpenGL-) 
 
 
