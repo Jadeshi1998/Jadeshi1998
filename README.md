@@ -20,7 +20,11 @@ I'm a final-year Computer Science student at the University of Canterbury with a
 
 - **RIP_Routing** 🛰️  
   A routing daemon based on the **RIP-2 (Routing Information Protocol v2)** specification.   
-  [🔗 View repository](https://github.com/Jadeshi1998/RIPv2) 
+  [🔗 View repository](https://github.com/Jadeshi1998/RIPv2)
+
+- **Computer Graphics** 📐 
+  A factory scene is in a 3D animation on **Open-GL**.
+  [🔗 View repository](https://github.com/Jadeshi1998/Factory-scene-OpenGL-) 
 
 
 <picture>
