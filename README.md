@@ -22,11 +22,11 @@ I'm a final-year Computer Science student at the University of Canterbury with a
   A routing daemon based on the **RIP-2 (Routing Information Protocol v2)** specification.   
   [🔗 View repository](https://github.com/Jadeshi1998/RIPv2)
 
-- **Computer Graphics** 📐
-  **Animation Factory**
+- **Animation Factory**
   A factory scene is in a 3D animation on **Open-GL** with a Skybox texture usage.  
-  [🔗 View repository](https://github.com/Jadeshi1998/Factory-scene-OpenGL-)  
-  **Ray Tracing**  
+  [🔗 View repository](https://github.com/Jadeshi1998/Factory-scene-OpenGL-)
+  
+- **Ray Tracing**  
   This project implements a ray tracer that renders a static 3D scene containing various geometric objects and lighting effects.  
   [🔗 View repository](https://github.com/Jadeshi1998/Computer-Graphics-RayTracing)  
 
