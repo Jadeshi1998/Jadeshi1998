@@ -25,10 +25,10 @@ I'm a final-year Computer Science student at the University of Canterbury with a
 - **Computer Graphics** 📐
   **Animation Factory**
   A factory scene is in a 3D animation on **Open-GL** with a Skybox texture usage.  
-  [🔗 View repository](https://github.com/Jadeshi1998/Factory-scene-OpenGL-)
+  [🔗 View repository](https://github.com/Jadeshi1998/Factory-scene-OpenGL-)  
   **Ray Tracing**  
   This project implements a ray tracer that renders a static 3D scene containing various geometric objects and lighting effects.  
-  [🔗 View repository]([https://github.com/Jadeshi1998/Factory-scene-OpenGL-](https://github.com/Jadeshi1998/Computer-Graphics-RayTracing)  
+  [🔗 View repository](https://github.com/Jadeshi1998/Computer-Graphics-RayTracing)  
 
 
 <picture>
