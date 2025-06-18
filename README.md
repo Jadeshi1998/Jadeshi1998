@@ -2,7 +2,7 @@
 
 I'm a final-year Computer Science student at the University of Canterbury with a background in the culinary industry. I enjoy building creative and impactful solutions through code — especially in C++, Python, and embedded systems.
 
-- 🎓 Currently studying Computer Science at University of Canterbury (Final year)
+- 🎓 Currently studying Computer Science at University of Canterbury in New Zealand
 - 🔄 Transitioned from chef to developer — driven by curiosity and challenge
 - 💡 Passionate about problem-solving, and continuous learning
 - 🌱 Learning: Embedded systems, systems programming, and AI
