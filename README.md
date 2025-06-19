@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Jade
+## 👋 Hi, I'm Jade (Yumeng Shi)
 
 I'm a final-year Computer Science student at the University of Canterbury with a background in the culinary industry. I enjoy building creative and impactful solutions through code — especially in C++, Python, and embedded systems.
 
