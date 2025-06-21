@@ -31,7 +31,10 @@ I'm a final-year Computer Science student at the University of Canterbury with a
   [🔗 View repository](https://github.com/Jadeshi1998/Computer-Graphics-RayTracing)  
 
 - **Embedded Game on UCFK4 microchips**
+  This project is a two-player version of the classic game Snake built for the UCFK4 microcontroller boards and demonstrates key concepts of embedded systems programming, including modular C design, hardware abstraction using APIs, and inter-board communication using IR.
+  [🔗 View repository](https://github.com/Jadeshi1998/embedded-Game-UCFK4)
 
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jadeshi1998/Jadeshi1998/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jadeshi1998/Jadeshi1998/output/github-contribution-grid-snake.svg">
