@@ -30,7 +30,7 @@ I'm a final-year Computer Science student at the University of Canterbury with a
   This project implements a ray tracer that renders a static 3D scene containing various geometric objects and lighting effects.  
   [🔗 View repository](https://github.com/Jadeshi1998/Computer-Graphics-RayTracing)  
 
-
+- **Embedded Game on UCFK4 microchips**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jadeshi1998/Jadeshi1998/output/github-contribution-grid-snake-dark.svg">
