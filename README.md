@@ -6,13 +6,11 @@ I'm a final-year Computer Science student at the University of Canterbury with a
 - 💡 Passionate about problem-solving, and continuous learning
 - 🌱 Learning: Embedded systems, systems programming, and AI
 - 📬 Reach me: jadeshi1998@gmail.com
-  
+- 
 ## 📄 Download My CV
 **[👉👉👉Jade Shi – CV (PDF)👈👈👈](https://github.com/Jadeshi1998/Jadeshi1998/blob/main/Yumeng%20Shi%20CV.pdf)**
 
-
 ## 🧩 Projects
-
 - **Tower Defence Game** 🎮  
   A microcontroller-based game developed in C using AVR-GCC and the UCFK4 board.  
   [🔗 View repository](https://github.com/Jadeshi1998/Tower-Defence-)
@@ -33,7 +31,6 @@ I'm a final-year Computer Science student at the University of Canterbury with a
   This project is a two-player version of the classic game Snake built for the UCFK4 microcontroller boards and demonstrates key concepts of embedded systems programming, including modular C design, hardware abstraction using APIs, and inter-board communication using IR.  
   [🔗 View repository](https://github.com/Jadeshi1998/embedded-Game-UCFK4)
 
-  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jadeshi1998/Jadeshi1998/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jadeshi1998/Jadeshi1998/output/github-contribution-grid-snake.svg">
@@ -41,7 +38,6 @@ I'm a final-year Computer Science student at the University of Canterbury with a
 </picture>
 
 ## 🛠️ Languages & Tools
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -51,13 +47,9 @@ I'm a final-year Computer Science student at the University of Canterbury with a
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
-
 ![Jade's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jadeshi1998&show_icons=true&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jadeshi1998&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jadeshi1998&layout=compact&theme=tokyonight)
-
 
 <!--
 **Jadeshi1998/Jadeshi1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
