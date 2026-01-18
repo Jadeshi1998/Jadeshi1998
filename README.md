@@ -8,7 +8,7 @@ I'm a final-year Computer Science student at the University of Canterbury with a
 - 📬 Reach me: jadeshi1998@gmail.com
 - 
 ## 📄 Download My CV
-**[👉👉👉Jade Shi – CV (PDF)👈👈👈](https://github.com/Jadeshi1998/Jadeshi1998/blob/main/Yumeng%20Shi%20CV.pdf)**
+**[👉👉👉Jade Shi – CV (PDF)👈👈👈](https://github.com/Jadeshi1998/Jadeshi1998/blob/main/Jade_Shi_CV.pdf)**
 
 ## 🧩 Projects
 - **Tower Defence Game** 🎮  
